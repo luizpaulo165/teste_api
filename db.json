@@ -1,12 +1,12 @@
 {
     "posts": [
-        { "id": 1, "title": "Título 1", "author": "Papaulo" },
-        { "id": 2, "title": "Título 2", "author": "Papaulo" },
-        { "id": 3, "title": "Título 3", "author": "Papaulo" },
-        { "id": 4, "title": "Título 4", "author": "Papaulo" },
-        { "id": 5, "title": "Título 5", "author": "typicode" },
-        { "id": 6, "title": "Título 6", "author": "typicode" },
-        { "id": 7, "title": "Título 7", "author": "typicode" }
+       { "id": 1, "title": "Título 1", "author": "Papaulo" },
+      { "id": 2, "title": "Título 2", "author": "Papaulo" },
+      { "id": 3, "title": "Título 3", "author": "Papaulo" },
+      { "id": 4, "title": "Título 4", "author": "Papaulo" },
+      { "id": 5, "title": "Título 5", "author": "typicode" },
+      { "id": 6, "title": "Título 6", "author": "typicode" },
+      { "id": 7, "title": "Título 7", "author": "typicode" }
     ],
     "comments": [
       { "id": 1, "body": "some comment", "postId": 1 }
